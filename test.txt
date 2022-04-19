@@ -1,0 +1,17 @@
+Instagram.exe       Firebase.exe       LIB
+Gmail.exe       MongoDB.exe       LIB
+Linkedin.exe       Ads.exe       LIB
+Instagram.exe       Firebase.exe       CONNECT
+Gmail.exe       MongoDB.exe       CONNECT
+Linkedin.exe       Ads.exe       CONNECT
+Twitter.exe       Target.exe       CONNECT
+Google.exe       Firebase.exe       CONNECT
+Youtube.exe       Costco.exe       CONNECT
+Instagram.exe       Firebase.exe       DATA       
+Gmail.exe       MongoDB.exe       DATA       
+Linkedin.exe       Ads.exe       DATA       
+Twitter.exe       Target.exe       DATA       
+Google.exe       Firebase.exe       DATA       
+Youtube.exe       Costco.exe       DATA       
+Microsoft.exe       Ebay.exe       DATA       
+Whatsapp.exe       reddit.exe       DATA       
